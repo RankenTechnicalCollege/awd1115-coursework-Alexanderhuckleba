@@ -9,12 +9,12 @@ namespace PriceQouteTipCalc.Controllers
         public IActionResult Index()
         {
             // default model values on startup
-            var model = new ErrorViewModel();
+            var model = new Quotation();
             return View(model);
         }
 
         [HttpPost]
-        public IActionResult Index(ErrorViewModel model)
+        public IActionResult Index(Quotation model)
         {
             if (model.Subtotal == null || model.Subtotal <= 0)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PriceQouteTipCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6602706580a3416ec7d872f1f562c9e574dae5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d64504ee130d867110b16f6a345d6dd52bb39e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PriceQouteTipCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PriceQouteTipCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

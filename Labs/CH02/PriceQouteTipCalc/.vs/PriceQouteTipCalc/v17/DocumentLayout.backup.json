@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch02\\priceqoutetipcalc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A0B9C1-97C4-4AD9-AC32-B2D47C660956}|PriceQouteTipCalc.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Models\\Quotation.cs",
+              "RelativeDocumentMoniker": "Models\\Quotation.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Models\\Quotation.cs",
+              "RelativeToolTip": "Models\\Quotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:01:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T17:46:11.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -42,38 +75,35 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-08T16:06:40.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T16:06:40.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T16:06:19.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T16:06:19.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T16:05:52.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T16:05:52.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -81,21 +111,19 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T16:05:25.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T16:05:25.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Models\\ErrorViewModel.cs*",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH02\\PriceQouteTipCalc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T16:05:06.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T16:05:06.828Z"
             }
           ]
         }
