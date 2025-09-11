@@ -1,0 +1,31 @@
+﻿@model TipCalculator.Models.Tip
+
+@{
+    ViewData["Title"] = "Tip Calculator";
+}
+
+<h1 style="color: navy;">Tip Calculator</h1>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color:red;">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+<form asp-action="Index" method="post">
+    <p>
+        <label>Cost of meal:</label>
+        <input asp-for="MealCost" />
+    </p>
+
+    <p>15% tip: @Model.Tip15.ToString("C")</p>
+    <p>20% tip: @Model.Tip20.ToString("C")</p>
+    <p>25% tip: @Model.Tip25.ToString("C")</p>
+
+    <button type="submit">Calculate</button>
+    <a asp-action="Clear">Clear</a>
+</form>
