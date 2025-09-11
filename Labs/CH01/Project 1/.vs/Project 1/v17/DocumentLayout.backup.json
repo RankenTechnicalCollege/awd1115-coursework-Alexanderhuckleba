@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\pancake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\corner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\iturnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150C66EC-739E-4C05-B6DB-090A02D53883}|..\\Project 9\\Project 9.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 9\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B861FBDF-B40C-441C-AEEF-8054727D36A9}|..\\Project 8\\Project 8.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 8\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B861FBDF-B40C-441C-AEEF-8054727D36A9}|..\\Project 8\\Project 8.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9AF90C6-2F9E-4592-9097-D2F8EC09AA52}|..\\Project 7\\Project 7.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1506C05-2B70-445A-B642-7FFF5B7734FF}|..\\Project 4\\Project 4.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794EA0D8-FAF4-4459-BD84-5A6723B6D4A3}|Project 1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794EA0D8-FAF4-4459-BD84-5A6723B6D4A3}|Project 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41147D0A-EDC9-4BB8-82DA-D15BAB19F3A6}|..\\Project 2\\Project 2.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2811E08-FC06-484B-8B53-02C028A473F1}|..\\Project 3\\Project 3.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D0E8C6-59AA-4BE3-8FED-F832C321A15F}|..\\Porject 5\\Porject 5.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\porject 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688533C-3187-4F29-95B0-8C280A13E03E}|..\\Project 6\\Project 6.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch01\\project 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Page.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\Page.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Page.cs",
+              "RelativeToolTip": "..\\Project 9\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:16:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITurnable.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\ITurnable.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\ITurnable.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\ITurnable.cs",
+              "RelativeToolTip": "..\\Project 9\\ITurnable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:14:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Corner.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Corner.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\Corner.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Corner.cs",
+              "RelativeToolTip": "..\\Project 9\\Corner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:14:22.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pancake.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Pancake.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\Pancake.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Pancake.cs",
+              "RelativeToolTip": "..\\Project 9\\Pancake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:14:15.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Leaf.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\Leaf.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Leaf.cs",
+              "RelativeToolTip": "..\\Project 9\\Leaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:14:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 9\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 9\\Program.cs",
+              "RelativeToolTip": "..\\Project 9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:12:20.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cart.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 8\\cart.cs",
+              "RelativeDocumentMoniker": "..\\Project 8\\cart.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 8\\cart.cs",
+              "RelativeToolTip": "..\\Project 8\\cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:37:42.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 8\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 8\\Program.cs",
+              "RelativeToolTip": "..\\Project 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:29:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 7\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 7\\Program.cs",
+              "RelativeToolTip": "..\\Project 7\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:05:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 6\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 6\\Program.cs",
+              "RelativeToolTip": "..\\Project 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:02:57.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Porject 5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Porject 5\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Porject 5\\Program.cs",
+              "RelativeToolTip": "..\\Porject 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:56:40.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 4\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 4\\Program.cs",
+              "RelativeToolTip": "..\\Project 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:33:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 3\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 3\\Program.cs",
+              "RelativeToolTip": "..\\Project 3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T00:46:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Project 2\\Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 2\\Program.cs",
+              "RelativeToolTip": "..\\Project 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T00:41:14.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH01\\Project 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:10:47.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

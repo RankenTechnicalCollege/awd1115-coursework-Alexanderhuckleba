@@ -1,0 +1,41 @@
+﻿@model PriceQouteTipCalc.Models.ErrorViewModel
+
+@{
+    ViewData["Title"] = "Price Quotation";
+}
+
+<h1 style="color: navy;">Price Quotation</h1>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color: red; margin-bottom: 10px;">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form asp-action="Index" method="post">
+    <p>
+        <label>Subtotal:</label>
+        <input asp-for="Subtotal" />
+    </p>
+    <p>
+        <label>Discount percent:</label>
+        <input asp-for="DiscountPercent" />
+    </p>
+    <p>
+        <label>Discount amount:</label>
+        <span>@Model.DiscountAmount.ToString("C")</span>
+    </p>
+    <p>
+        <label>Total:</label>
+        <span>@Model.Total.ToString("C")</span>
+    </p>
+
+    <button type="submit">Calculate</button>
+    <a asp-action="Clear">Clear</a>
+</form>

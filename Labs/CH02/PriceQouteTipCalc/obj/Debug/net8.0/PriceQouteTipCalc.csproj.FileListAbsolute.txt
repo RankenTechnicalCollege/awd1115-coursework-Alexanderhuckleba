@@ -1,0 +1,9 @@
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.AssemblyInfoInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.AssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.csproj.CoreCompileInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.MvcApplicationPartsAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.RazorAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.RazorAssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH02\PriceQouteTipCalc\obj\Debug\net8.0\PriceQouteTipCalc.sourcelink.json
