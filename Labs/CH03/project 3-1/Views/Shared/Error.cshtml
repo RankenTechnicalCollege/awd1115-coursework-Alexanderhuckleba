@@ -1,0 +1,14 @@
+﻿@model project_3_1.Models.ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="text-center mt-5">
+    <h1 class="text-danger">Oops! Something went wrong.</h1>
+    <p class="lead">Please try again later.</p>
+
+    @if (Model.ShowRequestId)
+    {
+        <p><strong>Request ID:</strong> <code>@Model.RequestId</code></p>
+    }
+</div>

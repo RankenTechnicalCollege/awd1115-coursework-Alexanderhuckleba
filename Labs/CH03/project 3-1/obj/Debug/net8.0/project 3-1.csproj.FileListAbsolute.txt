@@ -1,0 +1,9 @@
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.AssemblyInfoInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.AssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.csproj.CoreCompileInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.MvcApplicationPartsAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.RazorAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.RazorAssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.sourcelink.json
