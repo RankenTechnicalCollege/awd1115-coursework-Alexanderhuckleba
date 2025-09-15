@@ -1,0 +1,11 @@
+@model HOT1.Models.DistanceModel  // ? must match exactly
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Conversion Result";
+}
+
+<h2>Conversion Result</h2>
+
+<p>@Model.Inches:F2 inches is @Model.Centimeters:F2 centimeters</p>
+<a class="btn btn-secondary" href="/Converter">Convert Another</a>
