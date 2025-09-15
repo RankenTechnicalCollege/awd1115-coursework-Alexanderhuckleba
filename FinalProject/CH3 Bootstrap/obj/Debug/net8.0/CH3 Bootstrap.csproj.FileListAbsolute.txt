@@ -1,0 +1,34 @@
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\appsettings.Development.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\appsettings.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.staticwebassets.runtime.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.staticwebassets.endpoints.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.exe
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.deps.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.runtimeconfig.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\CH3 Bootstrap.pdb
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.AssemblyInfoInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.AssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.csproj.CoreCompileInputs.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.MvcApplicationPartsAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.RazorAssemblyInfo.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.RazorAssemblyInfo.cs
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.sourcelink.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\scopedcss\bundle\CH3 Bootstrap.styles.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\scopedcss\projectbundle\CH3 Bootstrap.bundle.scp.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\staticwebassets.build.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\staticwebassets.development.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\refint\CH3 Bootstrap.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.pdb
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.genruntimeconfig.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\ref\CH3 Bootstrap.dll

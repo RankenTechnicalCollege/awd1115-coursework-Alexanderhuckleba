@@ -1,0 +1,34 @@
+/* Apply Google Font */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Navbar custom colors */
+.navbar {
+    background-color: #004080 !important; /* deep blue */
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+
+    .nav-link:hover {
+        color: #ffcc00 !important; /* gold hover */
+    }
+
+/* Section card styling */
+.section-card {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #004080;
+    color: #ffffff;
+}
