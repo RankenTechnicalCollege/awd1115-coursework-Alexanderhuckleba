@@ -19,7 +19,7 @@ namespace FinalProjCH2.Controllers
             return View();
         }
 
-        public IActionResult Services()
+        public IActionResult Features()
         {
             return View();
         }

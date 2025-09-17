@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\views\\home\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:views\\home\\features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{937AE5E4-2C46-4449-ADCF-0213740DCCA7}|CH3 Bootstrap.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\finalproject\\ch3 bootstrap\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Views\\Home\\Pricing.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T07:42:29.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:42:29.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Features.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Views\\Home\\Features.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Features.cshtml",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Views\\Home\\Features.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T07:42:14.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:42:14.069Z"
             },
             {
               "$type": "Document",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T07:42:02.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:42:02.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -98,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T06:47:55.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T06:47:55.419Z"
             },
             {
               "$type": "Document",
@@ -119,31 +115,30 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-15T06:47:42.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T06:47:42.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T06:47:05.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\FinalProject\\CH3 Bootstrap\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T06:20:33.055Z",
               "EditorCaption": ""

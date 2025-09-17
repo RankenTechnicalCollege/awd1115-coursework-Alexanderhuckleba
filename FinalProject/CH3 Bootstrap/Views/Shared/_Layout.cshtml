@@ -1,15 +1,36 @@
 ﻿@{
     var appName = "FinalProjCH2";
+    // Set a custom Home Page Title here for SEO
+    ViewData["Title"] = "SmartStudy — Study Planner, Task Manager & Productivity App";
 }
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Custom Home Page Title -->
     <title>@ViewData["Title"] - @appName</title>
+
+    <!-- SEO Keywords & Description -->
+    <meta name="description" content="FinalProjCH2 helps students organize tasks, manage study plans, and track progress to improve learning and productivity." />
+    <meta name="keywords" content="FinalProjCH2, study planner, task manager, productivity app, homework organizer, student success" />
+
+    <!-- Bootstrap CSS (upgraded via LibMan) -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Site CSS -->
     <link rel="stylesheet" href="~/css/site.css" />
+
+    <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Apply Google Font */
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -17,7 +38,7 @@
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center" asp-area="" asp-controller="Home" asp-action="Index">
                     <img src="~/images/logo.jpg" alt="Logo" class="img-fluid me-2" style="max-height:40px;" />
-                    FinalProjCH2
+                    @appName
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -35,7 +56,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Services">Services</a>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Features">Features</a>
+                        </li>
+
                         </li>
                     </ul>
                 </div>
@@ -51,10 +75,11 @@
 
     <footer class="border-top footer text-muted">
         <div class="container text-center py-3">
-            &copy; @DateTime.Now.Year - FinalProjCH2
+            &copy; @DateTime.Now.Year - @appName
         </div>
     </footer>
 
+    <!-- Bootstrap JS -->
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

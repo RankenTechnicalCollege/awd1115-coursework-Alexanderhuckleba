@@ -32,3 +32,4 @@ C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.pdb
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\CH3 Bootstrap.genruntimeconfig.cache
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\obj\Debug\net8.0\ref\CH3 Bootstrap.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\FinalProject\CH3 Bootstrap\bin\Debug\net8.0\libman.json
