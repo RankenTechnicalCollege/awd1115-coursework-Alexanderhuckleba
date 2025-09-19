@@ -7,3 +7,28 @@ C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.RazorAssemblyInfo.cache
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.RazorAssemblyInfo.cs
 C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.sourcelink.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\appsettings.Development.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\appsettings.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.staticwebassets.runtime.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.staticwebassets.endpoints.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.exe
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.deps.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.runtimeconfig.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\bin\Debug\net8.0\project 3-1.pdb
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\scopedcss\bundle\project 3-1.styles.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\scopedcss\projectbundle\project 3-1.bundle.scp.css
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\staticwebassets.build.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\staticwebassets.development.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\refint\project 3-1.dll
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.pdb
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\project 3-1.genruntimeconfig.cache
+C:\AWD 1115\awd1115-coursework-Alexanderhuckleba\Labs\CH03\project 3-1\obj\Debug\net8.0\ref\project 3-1.dll

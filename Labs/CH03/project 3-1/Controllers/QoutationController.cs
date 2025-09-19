@@ -16,9 +16,10 @@ namespace project_3_1.Controllers
         {
             if (ModelState.IsValid)
             {
-                return View(model);
+                model.DiscountAmount = model.Subtotal * (model.DiscountPercent / 100);
+                model.Total = model.Subtotal - model.DiscountAmount;
             }
-            return View(new QuotationViewModel());
+            return View(model);
         }
     }
 }
