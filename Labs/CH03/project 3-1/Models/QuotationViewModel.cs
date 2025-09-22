@@ -1,18 +1,31 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
-namespace project_3_1.Models
+namespace Project3_1.Models
 {
     public class QuotationViewModel
     {
-        [Required(ErrorMessage = "Subtotal is required.")]
-        [Range(0.01, double.MaxValue, ErrorMessage = "Subtotal must be greater than zero.")]
+        public int QuotationId { get; set; }   // ✅ Add this for Edit/Delete
+
+        [Required]
+        public int CustomerId { get; set; }
+
+        [Required]
+        [Range(0.01, double.MaxValue)]
         public decimal? Subtotal { get; set; }
 
-        [Required(ErrorMessage = "Discount percent is required.")]
-        [Range(0.01, 100.00, ErrorMessage = "Discount percent must be between 0.01 and 100.")]
+        [Required]
+        [Range(0.01, 100)]
         public decimal? DiscountPercent { get; set; }
 
         public decimal DiscountAmount { get; set; }
         public decimal Total { get; set; }
+
+        // Selected Products (Many-to-Many)
+        public List<int> SelectedProductIds { get; set; } = new List<int>();
+
+        // Dropdown lists
+        public List<Customer> Customers { get; set; } = new List<Customer>();
+        public List<Product> Products { get; set; } = new List<Product>();
     }
 }

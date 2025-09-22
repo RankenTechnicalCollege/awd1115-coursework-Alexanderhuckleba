@@ -1,0 +1,13 @@
+﻿@model Project3_1.Models.Quotation
+
+<h2>Delete Quotation</h2>
+
+<div class="alert alert-danger">
+    <p>Are you sure you want to delete quotation #@Model.QuotationId?</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="QuotationId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

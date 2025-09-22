@@ -3,36 +3,104 @@
   "WorkspaceRootPath": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\controllers\\qoutationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:controllers\\qoutationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\quotationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\quotationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\quotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\quotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\controllers\\qoutationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:controllers\\qoutationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\project3_1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\project3_1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\quotationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\quotationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\quotationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\quotationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031953_AddDiscountAmountToQuotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250922031953_AddDiscountAmountToQuotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031707_AddCustomerToQuotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250922031707_AddCustomerToQuotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\quotation\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\quotation\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922022717_InitialChapter4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250922022717_InitialChapter4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922020341_AddChapter4Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250922020341_AddChapter4Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\labs\\ch03\\project 3-1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{362C305B-65AA-4883-9626-03E5DECB3673}|project 3-1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +110,297 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250922031953_AddDiscountAmountToQuotation.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031953_AddDiscountAmountToQuotation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250922031953_AddDiscountAmountToQuotation.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031953_AddDiscountAmountToQuotation.cs",
+              "RelativeToolTip": "Migrations\\20250922031953_AddDiscountAmountToQuotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:19:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250922031707_AddCustomerToQuotation.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031707_AddCustomerToQuotation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250922031707_AddCustomerToQuotation.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922031707_AddCustomerToQuotation.cs",
+              "RelativeToolTip": "Migrations\\20250922031707_AddCustomerToQuotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:17:07.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Delete.cshtml*",
+              "RelativeToolTip": "Views\\Customer\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:35:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:35:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:34:57.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:34:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:31:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250922022717_InitialChapter4.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922022717_InitialChapter4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250922022717_InitialChapter4.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922022717_InitialChapter4.cs",
+              "RelativeToolTip": "Migrations\\20250922022717_InitialChapter4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:27:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Quotation\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quotation\\List.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Quotation\\List.cshtml",
+              "RelativeToolTip": "Views\\Quotation\\List.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:16:07.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250922020341_AddChapter4Entities.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922020341_AddChapter4Entities.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250922020341_AddChapter4Entities.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Migrations\\20250922020341_AddChapter4Entities.cs",
+              "RelativeToolTip": "Migrations\\20250922020341_AddChapter4Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:03:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuotationProduct.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\QuotationProduct.cs",
+              "RelativeDocumentMoniker": "Models\\QuotationProduct.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\QuotationProduct.cs*",
+              "RelativeToolTip": "Models\\QuotationProduct.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:44:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Product.cs*",
+              "RelativeToolTip": "Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:43:40.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Customer.cs*",
+              "RelativeToolTip": "Models\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:42:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:08:48.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T00:55:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Project3_1Context.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Project3_1Context.cs",
+              "RelativeDocumentMoniker": "Models\\Project3_1Context.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Project3_1Context.cs*",
+              "RelativeToolTip": "Models\\Project3_1Context.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:49:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Quotation.cs",
+              "RelativeDocumentMoniker": "Models\\Quotation.cs",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\Quotation.cs*",
+              "RelativeToolTip": "Models\\Quotation.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:46:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Quotation\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Quotation\\Index.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Quotation\\Index.cshtml",
-              "RelativeToolTip": "Views\\Quotation\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Quotation\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Quotation\\Index.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-22T00:17:46.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T18:46:51.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "QoutationController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Controllers\\QoutationController.cs",
               "RelativeDocumentMoniker": "Controllers\\QoutationController.cs",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Controllers\\QoutationController.cs*",
               "RelativeToolTip": "Controllers\\QoutationController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T22:32:50.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "QuotationViewModel.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\QuotationViewModel.cs",
               "RelativeDocumentMoniker": "Models\\QuotationViewModel.cs",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\QuotationViewModel.cs",
               "RelativeToolTip": "Models\\QuotationViewModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T22:31:55.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-14T22:08:47.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -124,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -137,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\Labs\\CH03\\project 3-1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",

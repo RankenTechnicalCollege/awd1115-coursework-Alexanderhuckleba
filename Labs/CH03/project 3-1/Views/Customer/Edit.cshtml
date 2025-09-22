@@ -1,0 +1,39 @@
+﻿@model Project3_1.Models.QuotationViewModel
+
+<h2>Edit Quotation</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="QuotationId" />
+
+    <div class="mb-3">
+        <label asp-for="CustomerId" class="form-label">Customer</label>
+        <select asp-for="CustomerId" class="form-select" asp-items="@(new SelectList(Model.Customers, "CustomerId", "CustomerName"))">
+            <option value="">-- Select Customer --</option>
+        </select>
+        <span asp-validation-for="CustomerId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Subtotal" class="form-label">Subtotal</label>
+        <input asp-for="Subtotal" class="form-control" />
+        <span asp-validation-for="Subtotal" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DiscountPercent" class="form-label">Discount %</label>
+        <input asp-for="DiscountPercent" class="form-control" />
+        <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Products</label>
+        <select asp-for="SelectedProductIds" class="form-select" asp-items="@(new MultiSelectList(Model.Products, "ProductId", "ProductName", Model.SelectedProductIds))" multiple="multiple"></select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

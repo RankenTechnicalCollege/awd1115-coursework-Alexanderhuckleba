@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Project3_1.Models.Quotation>
+
+@{
+    ViewData["Title"] = "All Quotations";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Quotation ID</th>
+            <th>Customer</th>
+            <th>Subtotal</th>
+            <th>Discount %</th>
+            <th>Discount Amount</th>
+            <th>Total</th>
+            <th>Products</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var q in Model)
+        {
+            <tr>
+                <td>@q.QuotationId</td>
+                <td>@q.Customer?.CustomerName</td>
+                <td>@q.Subtotal.ToString("C2")</td>
+                <td>@q.DiscountPercent</td>
+                <td>@(q.Subtotal* q.DiscountPercent / 100).ToString("C2")</td>
+                <td>@q.Total.ToString("C2")</td>
+                <td>
+                    @if (q.QuotationProducts != null && q.QuotationProducts.Any())
+                    {
+                        <ul>
+                            @foreach (var qp in q.QuotationProducts)
+                            {
+                                <li>@qp.Product?.ProductName</li>
+                            }
+                        </ul>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
