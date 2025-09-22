@@ -16,9 +16,14 @@ namespace project_3_1.Controllers
         {
             if (ModelState.IsValid)
             {
-                model.DiscountAmount = model.Subtotal * (model.DiscountPercent / 100);
-                model.Total = model.Subtotal - model.DiscountAmount;
+                // Safely handle nullable decimals
+                var subtotal = model.Subtotal ?? 0;
+                var discountPercent = model.DiscountPercent ?? 0;
+
+                model.DiscountAmount = subtotal * (discountPercent / 100);
+                model.Total = subtotal - model.DiscountAmount;
             }
+
             return View(model);
         }
     }
