@@ -28,24 +28,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Converter/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydGVyXEluZGV4LmNzaHRtbA==
+[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Convert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Converter/Result.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydGVyXFJlc3VsdC5jc2h0bWw=
+[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Convert/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydFxSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Converter/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udmVydGVyXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Home/Receipt.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNlaXB0LmNzaHRtbA==
+[C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/AWD 1115/awd1115-coursework-Alexanderhuckleba/HandsOnTests/HOT1/HOT1/Views/Shared/_ValidationScriptsPartial.cshtml]

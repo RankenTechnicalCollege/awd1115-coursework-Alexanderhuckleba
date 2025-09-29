@@ -1,0 +1,33 @@
+﻿@model Project4_1.Models.Contact
+
+@{
+    ViewData["Title"] = "Contact Details";
+}
+
+<h1>Contact Details</h1>
+
+<div class="card p-3 mb-3">
+    <dl class="row">
+        <dt class="col-sm-3">First Name</dt>
+        <dd class="col-sm-9">@Model.FirstName</dd>
+
+        <dt class="col-sm-3">Last Name</dt>
+        <dd class="col-sm-9">@Model.LastName</dd>
+
+        <dt class="col-sm-3">Phone</dt>
+        <dd class="col-sm-9">@Model.Phone</dd>
+
+        <dt class="col-sm-3">Email</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">Category</dt>
+        <dd class="col-sm-9">@Model.Category?.Name</dd>
+
+        <dt class="col-sm-3">Date Added</dt>
+        <dd class="col-sm-9">@Model.DateAdded.ToShortDateString()</dd>
+    </dl>
+</div>
+
+<a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model.ContactId">Edit</a>
+<a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model.ContactId">Delete</a>
+<a class="btn btn-secondary" asp-action="Index">Back to List</a>

@@ -1,0 +1,14 @@
+﻿@model Project_4_1.Models.Quotation
+
+@{
+    ViewData["Title"] = "Quotation Result";
+}
+
+<h2>Quotation Result</h2>
+
+<p>Subtotal: @Model.Subtotal?.ToString("C")</p>
+<p>Discount Percent: @Model.DiscountPercent?.ToString("N2") %</p>
+<p>Discount Amount: @Model.DiscountAmount.ToString("C")</p>
+<p>Total: @Model.Total.ToString("C")</p>
+
+<a asp-action="Index">Back</a>

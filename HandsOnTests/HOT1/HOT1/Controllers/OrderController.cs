@@ -1,5 +1,5 @@
-﻿using HOT1.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using HOT1.Models;
 
 namespace HOT1.Controllers
 {
@@ -8,40 +8,17 @@ namespace HOT1.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View(new OrderModel());
+            return View();
         }
 
         [HttpPost]
         public IActionResult Index(OrderModel model)
         {
-            if (ModelState.IsValid)
-            {
-                decimal discountPercent = 0m;
+            if (!ModelState.IsValid)
+                return View(model);
 
-                if (!string.IsNullOrEmpty(model.DiscountCode))
-                {
-                    switch (model.DiscountCode)
-                    {
-                        case "6175": discountPercent = 0.30m; break;
-                        case "1390": discountPercent = 0.20m; break;
-                        case "BB88": discountPercent = 0.10m; break;
-                        default:
-                            model.ErrorMessage = "Invalid discount code.";
-                            discountPercent = 0m;
-                            break;
-                    }
-                }
-
-                int quantity = model.Quantity.GetValueOrDefault();
-                model.Subtotal = quantity * model.ShirtPrice * (1 - discountPercent);
-                model.Tax = model.Subtotal * 0.08m;
-                model.Total = model.Subtotal + model.Tax;
-
-                return View("Receipt", model);
-            }
-
+            model.CalculateTotal();
             return View(model);
         }
     }
 }
-

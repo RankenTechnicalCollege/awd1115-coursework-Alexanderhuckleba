@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\home\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\home\\receipt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\converter\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\converter\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\converter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\converter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\converter\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\converter\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\convert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\convert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\models\\distancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:models\\distancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\views\\convert\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:views\\convert\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|c:\\awd 1115\\awd1115-coursework-alexanderhuckleba\\handsontests\\hot1\\hot1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE08B44-8FA1-4F15-80C7-02C18AE3205E}|HOT1.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,55 +54,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\Converter\\_ViewImports.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\_ViewImports.cshtml*",
-              "RelativeToolTip": "Views\\Converter\\_ViewImports.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Result.cshtml",
+              "RelativeDocumentMoniker": "Result.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Result.cshtml",
+              "RelativeToolTip": "Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:26:17.658Z",
+              "WhenOpened": "2025-09-22T22:55:21.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Result.cshtml",
-              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\Result.cshtml",
-              "RelativeDocumentMoniker": "Views\\Converter\\Result.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\Result.cshtml*",
-              "RelativeToolTip": "Views\\Converter\\Result.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Convert\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Convert\\Result.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Convert\\Result.cshtml",
+              "RelativeToolTip": "Views\\Convert\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T02:15:32.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Converter\\Index.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Converter\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Converter\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Convert\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Convert\\Index.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Convert\\Index.cshtml",
+              "RelativeToolTip": "Views\\Convert\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T02:15:09.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T02:04:09.177Z",
@@ -114,39 +110,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Receipt.cshtml",
-              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Home\\Receipt.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Receipt.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Home\\Receipt.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Receipt.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:03:53.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Order\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T02:02:35.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T02:01:02.817Z",
               "EditorCaption": ""
@@ -157,61 +140,60 @@
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\OrderController.cs*",
-              "RelativeToolTip": "Controllers\\OrderController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T02:00:44.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ConvertController.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\ConvertController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConvertController.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\ConvertController.cs*",
-              "RelativeToolTip": "Controllers\\ConvertController.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Controllers\\ConvertController.cs",
+              "RelativeToolTip": "Controllers\\ConvertController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T02:00:28.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "Models\\OrderModel.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\OrderModel.cs*",
-              "RelativeToolTip": "Models\\OrderModel.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:00:11.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:00:11.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "DistanceModel.cs",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\DistanceModel.cs",
               "RelativeDocumentMoniker": "Models\\DistanceModel.cs",
-              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\DistanceModel.cs*",
-              "RelativeToolTip": "Models\\DistanceModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Models\\DistanceModel.cs",
+              "RelativeToolTip": "Models\\DistanceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T01:59:53.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Index.cshtml",
               "RelativeDocumentMoniker": "Index.cshtml",
               "ToolTip": "C:\\AWD 1115\\awd1115-coursework-Alexanderhuckleba\\HandsOnTests\\HOT1\\HOT1\\Index.cshtml",
               "RelativeToolTip": "Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T01:56:51.998Z",
               "EditorCaption": ""
